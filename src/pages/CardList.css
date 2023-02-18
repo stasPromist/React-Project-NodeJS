@@ -1,0 +1,12 @@
+.grid {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    
+}
